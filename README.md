@@ -1,0 +1,3 @@
+AddonsBegin
+AddonModuleInit
+AddonsActionBegin
